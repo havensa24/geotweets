@@ -13,8 +13,11 @@ Lab 2 of Geog 458 Spring 2022
 
 ## Map Images
 <ul>
-<li><a href="https://github.com/havensa24/geotweets/blob/10b830a30f61dd6057de53f17298559b61042eaf/Lab%202.1.jpg">Map Image 1</a></li>
-<li><a href="https://github.com/havensa24/geotweets/blob/10b830a30f61dd6057de53f17298559b61042eaf/Lab%202.2.jpg">Map Image 2</a></li>
+<p><li><a href="https://github.com/havensa24/geotweets/blob/10b830a30f61dd6057de53f17298559b61042eaf/Lab%202.1.jpg">Map Image 1</a></li>
+  The first map shows us how many tweets were sent out across the continental United States that included or discussed the Coronavirus. It shows us that more tweets were sent out across the east coast of the United States, and we can speculate that it seems denser in tweets due to more cities having higher populations, versus the west coast where heavily populated cities are more spread across the coast.</p>
+  
+<p><li><a href="https://github.com/havensa24/geotweets/blob/10b830a30f61dd6057de53f17298559b61042eaf/Lab%202.2.jpg">Map Image 2</a></li>
+  The second map shows similar in pattern, but rather than focusing on the past minute, it is focused on the past ten minutes and focused on tweets that discuss the election, with "election" being the key term sought out for. We see the west coast is rather quiet in terms of tweets regarding the election, but the east coast shows more data. With what has been going on recently with east coast states such as Florida, and recent policy changes with their elected officials, we can assume that the citizens of Florida are discussing their new mandates and bills based on what elected officals have signed off on.</p>
   </ul>
 
 ## WordCloud Images
