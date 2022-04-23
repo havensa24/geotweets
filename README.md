@@ -1,5 +1,6 @@
 # Geotweets
-Lab 2 of Geog 458 Spring 2022
+Lab 2 of Geog 458 Spring 2022 - Tracking tweets based on key terms and location.
+<p>I focused on coronavirus tweets within the past minute as the given time the code was ran, and tweets about any sort of election within the past ten minutes in which the code was ran. I chose coronavirus as slowly, the government seems to be lifting policies on limitations and requirements regarding the virus, and we will see how the public responds to the situation. I then chose "election" as the government and elected officials are always under scrutiny, especially in todays world as southeastern states continue to make policies that limit women and those of the LGBTQ+ community</p>
 
 
 ## Google Colab Link
