@@ -8,8 +8,8 @@ Lab 2 of Geog 458 Spring 2022 - Tracking tweets based on key terms and location.
 
 ## Assets
 <ul>
-<li><a href="https://github.com/havensa24/geotweets/blob/3ab895dea3cb962c08444e77aab08fc4a4afd74f/geotweets-1.csv">Geotweet-1.csv</a></li>
-<li><a href="https://github.com/havensa24/geotweets/blob/3ab895dea3cb962c08444e77aab08fc4a4afd74f/geotweets-2.csv">Geotweet-2.csv</a></li>
+<li><a href="https://github.com/havensa24/geotweets/blob/3ab895dea3cb962c08444e77aab08fc4a4afd74f/geotweets-1.csv">Geotweet-1.csv</a> -- Coronavirus</li>
+<li><a href="https://github.com/havensa24/geotweets/blob/3ab895dea3cb962c08444e77aab08fc4a4afd74f/geotweets-2.csv">Geotweet-2.csv</a> -- Election</li>
   </ul>
 
 ## Map Images
