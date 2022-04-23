@@ -12,5 +12,13 @@ Lab 2 of Geog 458 Spring 2022
   </ul>
 
 ## Map Images
+<ul>
+<li><a href="https://github.com/havensa24/geotweets/blob/10b830a30f61dd6057de53f17298559b61042eaf/Lab%202.1.jpg">Map Image 1</a></li>
+<li><a href="https://github.com/havensa24/geotweets/blob/10b830a30f61dd6057de53f17298559b61042eaf/Lab%202.2.jpg">Map Image 2</a></li>
+  </ul>
 
 ## WordCloud Images
+<ul>
+<li><a href="https://github.com/havensa24/geotweets/blob/10b830a30f61dd6057de53f17298559b61042eaf/Word%20Art%201.png">WordCloud Image 1</a></li>
+<li><a href="https://github.com/havensa24/geotweets/blob/10b830a30f61dd6057de53f17298559b61042eaf/Word%20Art%202.png">WordCloud Image 2</a></li>
+  </ul>
