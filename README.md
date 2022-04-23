@@ -24,5 +24,7 @@ Lab 2 of Geog 458 Spring 2022 - Tracking tweets based on key terms and location.
 ## WordCloud Images
 <ul>
 <li><a href="https://github.com/havensa24/geotweets/blob/10b830a30f61dd6057de53f17298559b61042eaf/Word%20Art%201.png">WordCloud Image 1</a></li>
+  <p>Looking at the word map regarding the term coronavirus, "go," "up," and "out" seem to be popular amongst tweets. We can speculate that people are responding to mandates being lifted, now being about to go out more be it sporting events, concerts, dining, etc.</p>
 <li><a href="https://github.com/havensa24/geotweets/blob/10b830a30f61dd6057de53f17298559b61042eaf/Word%20Art%202.png">WordCloud Image 2</a></li>
+  <p>The words following the term "election" are all over the place. We can use this and see just how divided the country really is, who they like and don't like and how they openly admit that, and their responses to actual election process or results of elections.</p>
   </ul>
